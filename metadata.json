@@ -1,0 +1,8 @@
+{
+  "name": "LuxeNav - Luxury Fashion Portal",
+  "description": "A refined, iOS-inspired portal for seamless browsing of global luxury fashion and accessory websites, reducing cognitive load for high-end shoppers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
